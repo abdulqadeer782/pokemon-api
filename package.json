@@ -1,0 +1,29 @@
+{
+  "name": "my-pokedex-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "framer-motion": "^11.1.7",
+    "next": "14.2.1",
+    "react": "^18.0.0",
+    "react-apexcharts": "^1.4.1",
+    "react-dom": "^18.0.0",
+    "react-query": "^3.39.3",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.1",
+    "typescript": "^5"
+  }
+}
